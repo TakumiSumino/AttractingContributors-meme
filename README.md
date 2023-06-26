@@ -31,6 +31,6 @@ Goal - I want contributors to help me list some favorite Japanese Anime.
 10. Assassination Class
 11. Barakamon
 
-
+13. Nichijou
 
 
