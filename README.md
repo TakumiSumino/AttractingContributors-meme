@@ -27,4 +27,5 @@ To avoid conflicting, please write between written things...
 * がんばるゾイ
 * nonomura ryutaro
 * Bully Maguire
+* kusa
 
